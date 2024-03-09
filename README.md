@@ -203,5 +203,3 @@ In our World Bank loan data analysis, we're focused on determining the top 5 cou
 
 In our World Bank loan data analysis, we aim to determine the top 5 countries with the highest "Due to IDA" amounts. This task is crucial to understand the countries with significant outstanding obligations to the International Development Association (IDA). By utilizing the provided query to sum the "Due to IDA" amounts for each country, we gain insights into countries with substantial financial commitments. This information is essential for financial assessment and tracking outstanding financial obligations.
 
-
-
