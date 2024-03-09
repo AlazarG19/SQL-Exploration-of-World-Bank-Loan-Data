@@ -219,3 +219,6 @@ __Storytelling__
 
 Power BI enables users to create compelling data stories by combining visualizations, text, and images into interactive presentations. This storytelling approach helps convey key insights and recommendations to stakeholders in a clear and engaging manner.
 
+![Overall Information](/Page1.PNG)
+![Regional Information](/Page2.PNG)
+![Regional Information Part2](/Page3.PNG)
